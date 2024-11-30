@@ -18,3 +18,6 @@ This project aims to simulate the likelihood of false positives in an image-base
 
 The simulation demonstrates that using an image-based method for searching radio-emitting stars allows for a broader, less catalog-restricted search. While the number of false positives can be large, especially for distances greater than 100 pc, the ability to discover new sources justifies the higher number of random matches.
 The results show that this approach can lead to the identification of more radio stars, although it comes with the need to manage and filter a larger number of potential false positives.
+
+## Documentation
+For a detailed description of the work and methodology, please refer to the [here](https://drive.google.com/file/d/17RDFwJezf33d-4lM3-IKvSbjLMT-K5Kn/view?usp=sharing).
