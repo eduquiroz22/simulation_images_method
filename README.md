@@ -13,7 +13,7 @@ This project aims to simulate the likelihood of false positives in an image-base
 - **False Positives**: Out of 1,308,354 random observations, 5,174 resulted as false positives based on the criteria for a radio source used in the catalog method.
 - **Expected False Positives**: The number of expected false positives increases significantly with distance. Up to 100 pc, between 300 and 350 false positives were expected, which presents a major challenge when dealing with the broader search. However, this is the trade-off for expanding the search beyond cataloged sources and increasing the likelihood of discovering new, previously missed radio stars.
 
-![Simulation Results](simulation_catalog_250.png)
+![Simulation Results](simulation_images_100.png)
 
 
 The simulation demonstrates that using an image-based method for searching radio-emitting stars allows for a broader, less catalog-restricted search. While the number of false positives can be large, especially for distances greater than 100 pc, the ability to discover new sources justifies the higher number of random matches.
