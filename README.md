@@ -20,4 +20,4 @@ The simulation demonstrates that using an image-based method for searching radio
 The results show that this approach can lead to the identification of more radio stars, although it comes with the need to manage and filter a larger number of potential false positives.
 
 ## Documentation
-For a detailed description of the work and methodology, please refer to the [here](https://drive.google.com/file/d/17RDFwJezf33d-4lM3-IKvSbjLMT-K5Kn/view?usp=sharing).
+For a detailed description of the work and methodology, please refer to the [here](https://drive.google.com/file/d/1ZBf8rpt7E_zgrULgnjOXPIV9ho6RutmN/view?usp=sharing).
